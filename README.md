@@ -33,7 +33,7 @@ Currently building real-world analytics projects and continuously improving my s
 
 ### 📊 Retail Sales Performance Analysis Dashboard
 
-![Dashboard](https://github.com/aswin-raja-k/Retail-Sales-Performance-Analysis/blob/main/Dashboard/Executive_Dashboard.png?raw=true)
+![Dashboard](Dashboard/Executive_Dashboard.png)
 
 An interactive Microsoft Excel dashboard built to analyze sales performance, identify trends, monitor KPIs, and generate business insights.
 
