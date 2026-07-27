@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi there 👋, I'm Aswin Raja K
 
-<!--
-**aswin-raja-k/aswin-raja-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Aspiring Data Analyst from Chennai, India
 
-Here are some ideas to get you started:
+I enjoy transforming raw data into meaningful business insights using **Microsoft Excel, SQL, and Power BI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building real-world analytics projects and continuously improving my skills in business intelligence, reporting, and dashboard development.
+
+---
+
+## 🚀 Technical Skills
+
+### 📈 Data Analysis
+- Data Cleaning
+- Data Validation
+- Data Analysis
+- Business Reporting
+- Dashboard Development
+- KPI Reporting
+- Data Visualization
+
+### 💻 Tools & Technologies
+- Microsoft Excel
+- SQL
+- Power BI (Learning)
+- Microsoft Word
+- Microsoft PowerPoint
+- Canva
+
+---
+
+## 📂 Featured Project
+
+### 📊 Retail Sales Performance Analysis Dashboard
+
+An interactive Microsoft Excel dashboard built to analyze sales performance, identify trends, monitor KPIs, and generate business insights.
+
+**Skills Used**
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- KPI Dashboard
+- Business Insights
+- Data Validation
+
+---
+
+## 📜 Certifications
+
+- HP LIFE – Data Science & Analytics
+- Deloitte Australia – Data Analytics Job Simulation (Forage)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Power BI
+- Business Intelligence
+- Data Storytelling
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **aswinraja378@gmail.com**
+
+💼 LinkedIn:
+https://www.linkedin.com/in/aswin-raja-k
+
+🌐 Portfolio:
+https://aswinrajak.netlify.app
+
+---
+⭐ Thanks for visiting my GitHub Profile!
