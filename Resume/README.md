@@ -1,3 +1,16 @@
-# Resume
+# 📄 Resume
 
-Download my latest Data Analyst Resume below.
+Welcome!
+
+You can download my latest Data Analyst resume below.
+
+## Resume
+
+- 📥 [Download Resume](./Aswin_Raja_K_Data_Analyst_Resume.pdf)
+
+---
+
+## Connect with me
+
+- LinkedIn: https://linkedin.com/in/aswin-raja-k
+- GitHub: https://github.com/aswin-raja-k
