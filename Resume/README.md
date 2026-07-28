@@ -6,7 +6,7 @@ You can download my latest Data Analyst resume below.
 
 ## Resume
 
-- 📥 [Download Resume](./Aswin_Raja_K_Data_Analyst_Resume.pdf)
+-[📄 Download Resume](Aswin_Raja_Data_Analyst_Resume.pdf)
 
 ---
 
